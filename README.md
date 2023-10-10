@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Taaya Rai
 - 🌱 I’m currently learning java
 
+  language:
+  -C programming
+
 
 <!---
 taayaGitHub1/taayaGitHub1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
