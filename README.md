@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taaya Rai</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🌱 I’m currently learning **Frontend web development**
 - 📫 How to reach me **taayaw01@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
